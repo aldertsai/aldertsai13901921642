@@ -1,2 +1,2 @@
 # aldertsai13901921642
-ALder Tsai myself developer studio
+使用Github的Actions功能在线编译NanoPi-R1S固件
